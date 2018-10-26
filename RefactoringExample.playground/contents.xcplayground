@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Start'/>
+        <page name='Statement Initial'/>
+        <page name='Statement Test'/>
+        <page name='Decomposing Statement'/>
+        <page name='Rental Renaming'/>
+        <page name='Amount Calculation'/>
+        <page name='Temp with query'/>
+        <page name='Frequent Renter Points'/>
+        <page name='Removing Temps'/>
+        <page name='Result'/>
+    </pages>
+</playground>
